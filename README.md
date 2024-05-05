@@ -4,10 +4,10 @@
 <h3 align="center">A junior developer from Czech Republic</h3>
 
 <div align="center">
-    <a href="mailto:tomasplotica@gmail.com">
+    <a href="mailto:tomasplotica@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" targer="_blank">
     </a>
-    <a href="https://www.linkedin.com/in/tomáš-plotica-0b0683303/">
+    <a href="https://www.linkedin.com/in/tomáš-plotica-0b0683303/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targer="_blank">
     </a>
 </div>
@@ -17,7 +17,7 @@
 <h2 align="center">Languages and Tools</h2>
 <br/>
 <div align="center">
-    <a href = https://skillicons.dev>
+    <a href = https://skillicons.dev target="_blank">
         <img src="https://skillicons.dev/icons?i=py,cs,c,cpp"><br/>
         <img src="https://skillicons.dev/icons?i=html,css"><br/>
         <img src="https://skillicons.dev/icons?i=github,linux,unity">
