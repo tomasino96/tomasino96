@@ -4,7 +4,6 @@
 <h3 align="center">A junior developer from Czech Republic</h3>
 
 <div align="center">
-    
     <a href="https://www.linkedin.com/in/tomáš-plotica-0b0683303/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
